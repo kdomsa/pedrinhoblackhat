@@ -4,7 +4,7 @@ import { Button } from '@/components/ui/button';
 import { motion } from 'framer-motion';
 
 const PricingSection = () => {
-  const hotmartLink = "https://go.hotmart.com/E103200025X?ap=8360";
+  const hotmartLink = "https://pay.kiwify.com.br/gBUF1fs?afid=UdaR7o5W";
   
   return (
     <section id="pricing" className="py-16 md:py-24 relative overflow-hidden gmin-h-[60vh]">

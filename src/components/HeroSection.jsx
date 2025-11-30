@@ -23,7 +23,7 @@ const PulsingDot = () => (
 const HeroSection = () => {
   const [memberCount, setMemberCount] = React.useState(0);
   const [hasAnimated, setHasAnimated] = React.useState(false);
-  const hotmartLink = "https://go.hotmart.com/E103200025X?ap=8360";
+  const hotmartLink = "https://pay.kiwify.com.br/gBUF1fs?afid=UdaR7o5W";
   
   React.useEffect(() => {
     if (!hasAnimated) {
