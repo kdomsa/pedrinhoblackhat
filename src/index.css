@@ -149,6 +149,10 @@
   100% { transform: translate3d(0%, 0, 0); }
 }
 
+html {
+  overflow-x: hidden;
+}
+
 /* Frame-perfect animation classes with GPU acceleration */
 .animate-scroll-left {
   animation: scroll-left 30s linear infinite;
