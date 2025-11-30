@@ -3,15 +3,16 @@ import { Check, Crown } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 import { motion } from 'framer-motion';
 
+
 const PricingSection = () => {
-  const hotmartLink = "https://pay.hotmart.com/Q98980035N?off=bm2ecn5u&bid=1747954127381";
+  const hotmartLink = "https://pay.hotmart.com/Q98980035N?off=o6jmtj0b";
   
   return (
-    <section id="pricing" className="py-16 md:py-24 relative overflow-hidden min-h-screen">
+    <section id="pricing" className="py-16 md:py-24 relative overflow-hidden min-h-[60vh]">
       {/* Background */}
       <div className="absolute inset-0 bg-black" />
       
-
+      
       {/* Floating Light Particles */}
       <div className="absolute inset-0 overflow-hidden">
         {[...Array(25)].map((_, i) => (
@@ -101,9 +102,9 @@ const PricingSection = () => {
                 >
                   <p className="text-gray-400 line-through text-lg mb-2">De R$497</p>
                   <div className="text-4xl md:text-5xl font-bold text-white mb-2">
-                    R$297<span className="text-lg font-medium text-gray-300">/ano</span>
+                    R$347<span className="text-lg font-medium text-gray-300">/ano</span>
                   </div>
-                  <p className="text-gray-300">ou 12x de R$ 30,72</p>
+                  <p className="text-gray-300">ou 12x de R$ 35,89</p>
                 </motion.div>
 
                 {/* Lista de benefícios */}

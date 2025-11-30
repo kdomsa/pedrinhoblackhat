@@ -22,7 +22,7 @@ import React from 'react';
 
     const TestimonialsSection = () => {
       const duplicatedTestimonials = [...testimonialsData, ...testimonialsData]; 
-      const hotmartLink = "https://pay.hotmart.com/Q98980035N?off=bm2ecn5u&bid=1747954127381";
+      const hotmartLink = "https://pay.hotmart.com/Q98980035N?off=o6jmtj0b";
       
       const imageWidthPx = 320; 
       const gapPx = 24; 
