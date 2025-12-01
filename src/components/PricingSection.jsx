@@ -5,7 +5,7 @@ import { motion } from 'framer-motion';
 
 
 const PricingSection = () => {
-  const hotmartLink = "https://pay.hotmart.com/Q98980035N?off=o6jmtj0b";
+  const hotmartLink = "https://pay.kiwify.com.br/gBUF1fs?afid=UdaR7o5W";
   
   return (
     <section id="pricing" className="py-16 md:py-24 relative overflow-hidden min-h-[60vh]">
