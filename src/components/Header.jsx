@@ -5,7 +5,7 @@ import { Button } from '@/components/ui/button';
 
 const Header = () => {
   const [isOpen, setIsOpen] = useState(false);
-  const hotmartLink = "https://pay.kiwify.com.br/gBUF1fs?afid=UdaR7o5W";
+  const hotmartLink = "https://pay.kiwify.com.br/67BzjZ9?afid=UdaR7o5W";
 
   const toggleMenu = () => setIsOpen(!isOpen);
 

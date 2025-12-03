@@ -5,7 +5,7 @@ import { motion } from 'framer-motion';
 
 
 const PricingSection = () => {
-  const hotmartLink = "https://pay.kiwify.com.br/gBUF1fs?afid=UdaR7o5W";
+  const hotmartLink = "https://pay.kiwify.com.br/67BzjZ9?afid=UdaR7o5W";
   
   return (
     <section id="pricing" className="py-16 md:py-24 relative overflow-hidden min-h-[60vh]">
@@ -102,9 +102,9 @@ const PricingSection = () => {
                 >
                   <p className="text-gray-400 line-through text-lg mb-2">De R$497</p>
                   <div className="text-4xl md:text-5xl font-bold text-white mb-2">
-                    R$347<span className="text-lg font-medium text-gray-300">/ano</span>
+                    R$147<span className="text-lg font-medium text-gray-300">/ano</span>
                   </div>
-                  <p className="text-gray-300">ou 12x de R$ 35,89</p>
+                  <p className="text-gray-300">ou 12x de R$ 15,20</p>
                 </motion.div>
 
                 {/* Lista de benefícios */}
